@@ -26,7 +26,7 @@ return g/h;
 }
 divide(g, h);
 
- 
+
 
 let i = Math.floor(Math.random() * 1000);
 function inc(i){
